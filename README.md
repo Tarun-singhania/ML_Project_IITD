@@ -21,9 +21,9 @@ Both parts include custom implementations and standard machine learning models.
 ## 📂 Repository Structure
 ├── ML_Part_1_red_wine.py # Regression analysis
 ├── ML_Part_2_red_wine.py # Classification analysis
-├── train.csv # dataset
 ├── Report # Overall Report
 ├── README.md # Project documentation
+├── wine_quality.csv # dataset
 
 
 ---
