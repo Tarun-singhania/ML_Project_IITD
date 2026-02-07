@@ -61,7 +61,7 @@ Both parts include custom implementations and standard machine learning models.
 - 5-Fold Cross-Validation Score
 
 ### 🏆 Key Results
-- **Best Overall Model:** Random Forest Regressor
+- **Best Overall Model:** Random Forest Regressor(R2_Score - 0.43)
 - **Best Distance-Based Model:** KNN Regressor
 - **Best Linear Model:** Ridge Regression
 - Hyperparameter tuning significantly improved KNN performance
